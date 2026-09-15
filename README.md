@@ -6,4 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/bineet392-hub/90DaysLeetcodeChallenge/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/bineet392-hub/90DaysLeetcodeChallenge/tree/master/2235-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/bineet392-hub/90DaysLeetcodeChallenge/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/bineet392-hub/90DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
